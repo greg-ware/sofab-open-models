@@ -19,45 +19,6 @@
    sodipodi:docname="Lampe.svg">
   <defs
      id="defs4">
-    <inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect4805"
-       is_visible="true"
-       offset_points="0,0.5"
-       sort_points="true"
-       interpolator_type="CubicBezierJohan"
-       interpolator_beta="0.2"
-       start_linecap_type="zerowidth"
-       linejoin_type="round"
-       miter_limit="4"
-       end_linecap_type="zerowidth"
-       cusp_linecap_type="round" />
-    <inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect4737"
-       is_visible="true"
-       offset_points="0,0.5"
-       sort_points="true"
-       interpolator_type="CubicBezierJohan"
-       interpolator_beta="0.2"
-       start_linecap_type="zerowidth"
-       linejoin_type="round"
-       miter_limit="4"
-       end_linecap_type="zerowidth"
-       cusp_linecap_type="round" />
-    <inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect4729"
-       is_visible="true"
-       offset_points="0,0.5"
-       sort_points="true"
-       interpolator_type="CubicBezierJohan"
-       interpolator_beta="0.2"
-       start_linecap_type="zerowidth"
-       linejoin_type="round"
-       miter_limit="4"
-       end_linecap_type="zerowidth"
-       cusp_linecap_type="round" />
     <linearGradient
        id="linearGradient4548"
        osb:paint="solid">
@@ -106,21 +67,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61"
-     inkscape:cx="506.03242"
-     inkscape:cy="1665.0234"
+     inkscape:zoom="0.80675645"
+     inkscape:cx="520.37513"
+     inkscape:cy="453.63348"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1519"
      inkscape:window-height="1837"
-     inkscape:window-x="14"
-     inkscape:window-y="176"
+     inkscape:window-x="128"
+     inkscape:window-y="157"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid8483" />
@@ -210,6 +172,12 @@
        d="M 722.75665,2.7428252 A 302.46632,300.41557 0 0 0 1022.1649,303.00455 l 0,-8.84961 17.7168,0 0,-51.37696 -17.7168,0 0,-10.63868 A 230.87666,229.51893 0 0 1 793.62195,2.7369652 230.87666,229.51893 0 0 1 1022.1649,-226.70053 l 0,-10.64062 17.7168,0 0,-51.37696 -17.7168,0 0,-8.84961 A 302.46632,300.41557 0 0 0 722.75665,2.7428252 Z"
        id="path4149-2-6-4-3"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       d="m 977.63015,1002.0012 -2.64379,-112.03503 -76.23866,40.20257 47.53359,73.11046 z m -2.38226,-129.27738 -103.93222,-2.32292 17.58111,37.8559 z m -43.31771,132.69898 -45.12914,-68.60386 -47.79676,22.27398 64.08139,48.72828 z m -112.16205,-41.69483 -147.25759,49.77143 207.65212,-7.7146 z m 35.96008,-92.93738 -122.45765,2.03645 77.53411,63.45589 66.09417,-22.62886 z m -69.88842,72.07118 -61.0713,-58.98094 -68.00666,76.54038 23.62513,21.14606 z m -77.29456,-68.89109 -141.15705,-1.69795 78.24279,82.29592 z m -34.61517,113.17962 -22.52154,-15.35486 -28.07375,40.42236 z m -37.02959,-18.94103 -57.43544,-52.25803 -47.31056,-43.68552 -30.99481,22.33691 -46.31097,35.44178 154.49322,76.42309 z m -133.65106,-97.2215 -96.82326,0.56978 35.25562,44.87654 z m -97.34586,101.56362 -37.74394,36.04871 195.7408,-0.1194 z m 151.11802,22.13067 -109.55762,-60.63003 -30.69737,27.61761 z M 429.48555,925.92675 381.4512,872.47835 297.98701,938.29542 399.551,958.33617 Z m -42.93508,48.3067 -94.72294,-25.83811 54.09863,60.39056 z m -32.61801,-100.81301 -65.82893,-1.15268 5.61151,54.68513 z M 327.5577,1007.3395 279.82629,952.60833 116.26086,931.40952 181.6691,1007.8483 Z m -44.2811,-66.74473 -8.57709,-69.28051 -52.66554,0.59531 -43.09755,50.7605 z m -82.9862,-69.1281 -106.392054,2.0218 4.286812,45.28316 64.169842,1.64172 z m -33.33666,136.54363 -66.44287,-75.36041 0.18612,75.13781 z"
+       id="path9170"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
